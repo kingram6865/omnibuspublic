@@ -1,0 +1,42 @@
+nav {
+  flex: 1;
+  background-color: white;
+  width: 100vw;
+  max-height: 100px;
+  max-width: 100%;
+  width: 100%;
+  font-family: 'Nunito', sans-serif;
+}
+
+.admin-login {
+  text-align: right;
+  /* background-image: url("/images/MamasCandyColors.svg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 22px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  margin: 5px auto;
+  max-width: 90vw;
+  padding: 10px 0px;
+}
+
+.navbar-links {
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+}
+
+/* .navbar-links a {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  justify-content: center;
+} */
+

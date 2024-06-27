@@ -1,0 +1,2 @@
+UPDATE ntt_recording_regions set file_name='2010 01 06 (TS-309967) NTT Community Call (Edited)-(Lecture).mp3' WHERE objid=93;
+UPDATE ntt_recording_regions set file_name='2010 11 10 (TS-416540) NTT Community Call (Edited)-(Lecture).mp3' WHERE objid=497;

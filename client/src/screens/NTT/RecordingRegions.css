@@ -1,0 +1,20 @@
+.recording-region {
+  border: 2px solid black;
+  padding: 5px 5px;
+}
+
+.detail-label {
+  font-weight: bold;
+}
+
+.recording-date-time {
+  background-color: aqua;
+}
+
+.recording-info {
+  border: 2px black solid;
+  font-weight: bold;
+  font-size: larger;
+  padding: 4px 4px;
+}
+

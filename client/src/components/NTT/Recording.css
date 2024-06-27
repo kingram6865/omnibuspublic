@@ -1,0 +1,19 @@
+.recording {
+  display: flex;
+  /* background-color: darkolivegreen; */
+  width: 40vw;
+  justify-content: center;
+  border: 2px solid black;
+  margin: 0 5px 5px 0;
+  padding: 0 5px 5px 0;
+}
+
+.outer-table {
+  /* background-color: aqua; */
+  margin: 5 5;
+  width: 50vw;
+}
+
+.top-call {
+  background-color: rgb(224, 242, 197);
+}

@@ -1,0 +1,15 @@
+UPDATE ntt_recording_regions set file_name='2014 01 08 (TS-803939) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1822;
+UPDATE ntt_recording_regions set file_name='2014 01 15 (TS-817380) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1832;
+UPDATE ntt_recording_regions set file_name='2014 01 22 (TS-817381) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1840;
+UPDATE ntt_recording_regions set file_name='2014 01 29 (TS-817382) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1848;
+UPDATE ntt_recording_regions set file_name='2014 02 05 (TS-817383) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1853;
+UPDATE ntt_recording_regions set file_name='2014 02 12 (TS-817384) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1861;
+UPDATE ntt_recording_regions set file_name='2014 02 19 (TS-817385) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1870;
+UPDATE ntt_recording_regions set file_name='2014 02 26 (TS-817386) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1878;
+UPDATE ntt_recording_regions set file_name='2014 03 05 (TS-834805) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1887;
+UPDATE ntt_recording_regions set file_name='2014 03 12 (TS-834844) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1896;
+UPDATE ntt_recording_regions set file_name='2014 03 19 (TS-834845) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1908;
+UPDATE ntt_recording_regions set file_name='2014 03 26 (TS-834846) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1917;
+UPDATE ntt_recording_regions set file_name='2014 04 02 (TS-834847) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1926;
+UPDATE ntt_recording_regions set file_name='2014 04 09 (TS-834848) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1940;
+UPDATE ntt_recording_regions set file_name='2014 04 16 (TS-834849) NTT Community Call (Edited)-(Reading).mp3' WHERE objid=1947;

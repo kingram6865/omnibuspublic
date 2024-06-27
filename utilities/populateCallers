@@ -1,0 +1,9 @@
+#!/bin/bash
+workdb=$(mysql -h172.17.0.2 -P3306)
+
+workdb ntt -e "update ntt_recording_regions set server_file_path='/SABRENT/disk2/00.BACKUPS/NTT/NTT/2009/CALLERS' where recording_id IN (select objid from ntt_recordings where substr(recording_date,1,4) = 2009) and substr(description,1,6) = 'Caller'"
+workdb ntt -e "update ntt_recording_regions set server_file_path='/SABRENT/disk2/00.BACKUPS/NTT/NTT/2010/CALLERS' where recording_id IN (select objid from ntt_recordings where substr(recording_date,1,4) = 2010) and substr(description,1,6) = 'Caller'"
+workdb ntt -e "update ntt_recording_regions set server_file_path='/SABRENT/disk2/00.BACKUPS/NTT/NTT/2011/CALLERS' where recording_id IN (select objid from ntt_recordings where substr(recording_date,1,4) = 2011) and substr(description,1,6) = 'Caller'"
+workdb ntt -e "update ntt_recording_regions set server_file_path='/SABRENT/disk2/00.BACKUPS/NTT/NTT/2012/CALLERS' where recording_id IN (select objid from ntt_recordings where substr(recording_date,1,4) = 2012) and substr(description,1,6) = 'Caller'"
+workdb ntt -e "update ntt_recording_regions set server_file_path='/SABRENT/disk2/00.BACKUPS/NTT/NTT/2013/CALLERS' where recording_id IN (select objid from ntt_recordings where substr(recording_date,1,4) = 2013) and substr(description,1,6) = 'Caller'"
+workdb ntt -e "update ntt_recording_regions set server_file_path='/SABRENT/disk2/00.BACKUPS/NTT/NTT/2014/CALLERS' where recording_id IN (select objid from ntt_recordings where substr(recording_date,1,4) = 2014) and substr(description,1,6) = 'Caller'"

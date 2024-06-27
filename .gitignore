@@ -1,0 +1,7 @@
+.env
+node_modules/
+temp.txt
+logs/
+server-original.js
+ISSUES
+

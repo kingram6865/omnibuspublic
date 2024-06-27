@@ -1,0 +1,41 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-display {
+  display: flex;
+}
+
+.toc {
+  background-color: rgb(193, 184, 184);
+  height: 80vh;
+  width: 30vw;
+  margin: 0 5px 0 0;
+  scroll-behavior: auto;
+}
+
+.toc-item {
+  font-weight: bold;
+  text-align: left;
+}
+
+.readable {
+  background-color: rgb(143, 143, 124);
+  height: 80vh;
+  width: 60vw;
+}
+
+.nodefault {
+  list-style-type: none;
+}
+
+.highlight {
+  font-weight: bold;
+  background-color: greenyellow;
+}
